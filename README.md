@@ -52,32 +52,27 @@ O **Instalador Seguro** é uma ferramenta que gera um script de instalação per
 2. Clique em **Comprar**
 3. Após a confirmação via Hotmart, você receberá um e-mail com o acesso à ferramenta
 4. Preencha seus dados (como IP do servidor, porta, etc.)
-5. Copie o script gerado e execute no seu servidor:
+
+---
+
+## 🔐 Segurança
+
+- Scripts gerados com foco em segurança e performance  
+- Nenhuma senha ou dado sensível é armazenado  
+- Totalmente auditável antes da execução  
+
+---
+
+## 📦 Tecnologias envolvidas
+
+- Shell Script (Bash)  
+- Docker e Docker Compose  
+- Configuração de firewall e variáveis de ambiente  
+- Servidores Linux (Ubuntu)  
+
+---
+
+## ▶️ Como executar
 
 ```bash
 bash instalador-seguro.sh
-
-🔐 Segurança
-Scripts gerados com foco em segurança e performance
-
-Nenhuma senha ou dado sensível é armazenado
-
-Totalmente auditável antes da execução
-
-📦 Tecnologias envolvidas
-Shell Script (Bash)
-
-Docker e Docker Compose
-
-Configuração de firewall e variáveis de ambiente
-
-Servidores Linux (Ubuntu)
-
-🧾 Licença
-Este projeto é distribuído comercialmente. O código-fonte do script gerado é revisável, mas a ferramenta geradora é proprietária. Consulte os Termos de Uso no site oficial.
-
-💬 Suporte
-Em caso de dúvidas ou suporte técnico, entre em contato por:
-
-📧 contato@instaladorseguro.com.br
-🌐 https://instaladorseguro.com.br
