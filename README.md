@@ -73,7 +73,13 @@ Facilita a configuração de servidores Linux (Ubuntu), especialmente em platafo
 
 ---
 
-## ▶️ Como executar
+## 🧾 Licença
+Este projeto é distribuído comercialmente.
+O código-fonte do script gerado é revisável, mas a ferramenta geradora é proprietária.
 
-```bash
-bash instalador-seguro.sh
+---
+
+## 💬 Suporte
+Em caso de dúvidas ou suporte técnico, entre em contato por:
+📧 contato@instaladorseguro.com.br
+🌐 instaladorseguro.com.br
